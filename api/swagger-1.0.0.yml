@@ -49,3 +49,5 @@ definitions: # Object definition
         description: Employee Last Name #Data type description
       dateOfBirth:
         type: string
+      emailAddress:
+        type: string
